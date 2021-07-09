@@ -22,16 +22,16 @@ You can use hotkeys to make your time shorter to type something. Very easy-to-us
 5. Open the setup file and install AutoHotKey (installing notes below as a sub-list):
    - Don't change Install location
    - Check everything in options like here:
-   ![Everything in Options Checked](https://bit.ly/2VpkZCS)
+    <br> ![Everything in Options Checked](https://bit.ly/2VpkZCS) <br>
 
 Done! AutoHotKey is installed. *To continue, follow the Instructions Number 2 below.*
 
 ## Instructions Number 2 (Create Hotkey app itself!):
 1. Download the content of this repository. 
    - Press green **Code** button
-   ![The Green "Code" button picture](https://bit.ly/3yGpBml)
+    <br> ![The Green "Code" button picture](https://bit.ly/3yGpBml) <br>
    - Press **Download ZIP** button 
-   ![The "Download ZIP" button picture](https://bit.ly/3qZFXUt)
+    <br> ![The "Download ZIP" button picture](https://bit.ly/3qZFXUt) <br>
 2. Extract it using archivator (such as WinRar, 7zip and etc; By the way, 7zip is free!)
 3. **Right Mouse Button Click** Patrol.ahk file, select **Edit Script** option
 4. When you are editing the file, **edit only the place** which is **marked that you are allowed to edit**
@@ -50,12 +50,9 @@ Done! Now you have a Hotkey app. You **must** launch the app as **Administrator*
 
 <details>
  <summary>Things that you can grab/put from/to trunk (also known as boot of the car)</summary>
- ```
-  Vest = v, vest, V, Vest
-  MP5 = m, M, mp, MP, 5, mp5, MP5
-  Spike Strips = s, sp, S, SP, spike, SPIKE, spikes, SPIKES
-  Riot Shield = rs, shield, riot, RS, SHIELD, RIOT
-  Traffic vest (reflective vest) = t, tv, T, TV, traffic, TRAFFIC, traffic vest, TRAFFIC VEST
-  
- ```  
+  Vest = v, vest, V, Vest <br>
+  MP5 = m, M, mp, MP, 5, mp5, MP5 <br>
+  Spike Strips = s, sp, S, SP, spike, SPIKE, spikes, SPIKES <br>
+  Riot Shield = rs, shield, riot, RS, SHIELD, RIOT <br>
+  Traffic vest (reflective vest) = t, tv, T, TV, traffic, TRAFFIC, traffic vest, TRAFFIC VEST <br>
 </details>
