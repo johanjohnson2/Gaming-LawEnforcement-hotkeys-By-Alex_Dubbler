@@ -49,7 +49,7 @@ Done! Now you have a Hotkey app. You **must** launch the app as **Administrator*
 </details>
 
 <details>
- <summary>Things that you can grab/put from/to trunk (also known as _boot_ of the car)</summary>
+ <summary>Things that you can grab/put from/to trunk (also known as boot of the car)</summary>
  ```
   Vest = v, vest, V, Vest
   MP5 = m, M, mp, MP, 5, mp5, MP5
