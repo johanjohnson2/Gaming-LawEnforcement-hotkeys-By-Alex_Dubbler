@@ -1,4 +1,5 @@
 # Gaming-LawEnforcement-hotkeys-By-Alex_Dubbler
+## **You must have a NUMPAD on your keyboard for this to work!**
 ## Credits to Alex_Dubbler for doing this "tutorial" and you for using this!
 LISENCE - APACHE LISENCE 2.0 (http://www.apache.org/licenses/)- https://en.wikipedia.org/wiki/Apache_License
 
@@ -42,10 +43,8 @@ Done! AutoHotKey is installed. *To continue, follow the Instructions Number 2 be
 Done! Now you have a Hotkey app. You **must** launch the app as **Administrator** => to do that, just **Right Mouse Button Click** Patrol.exe file, select **Open as Admin** option.
 
 <details>
- <summary>Hotkeys itself (the keys that you should press)</summary>
- ```
-  a
- ```
+ <summary>Hotkeys itself (the keys that you should press to send messages and stuff)</summary>
+ 
 </details>
 
 <details>
@@ -55,4 +54,9 @@ Done! Now you have a Hotkey app. You **must** launch the app as **Administrator*
   Spike Strips = s, sp, S, SP, spike, SPIKE, spikes, SPIKES <br>
   Riot Shield = rs, shield, riot, RS, SHIELD, RIOT <br>
   Traffic vest (reflective vest) = t, tv, T, TV, traffic, TRAFFIC, traffic vest, TRAFFIC VEST <br>
+  Flares = flares, FLARES, Flares <br>
 </details>
+
+
+
+**After usage, when you might want to disable those keybinds,** you can open System Tray, **Right Mouse Button Click** the **H letter with green background**, press Exit. <br> ![Steps Shown on picture](https://bit.ly/3qVGt60)
