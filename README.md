@@ -44,7 +44,7 @@ Done! Now you have a Hotkey app. You **must** launch the app as **Administrator*
 <details>
  <summary>Hotkeys itself (the keys that you should press)</summary>
  ```
-  
+  a
  ```
 </details>
 
