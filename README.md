@@ -63,18 +63,18 @@ Done! Now you have a Hotkey app. You **must** launch the app as **Administrator*
  NUMPAD 5 = <Rank> <name> with the <department_name>. *will auto send this*. Know why I stopped you? *if you want to send that, you should press enter*. *TYPE-1* <br>
  NUMPAD 6 = *You wil be prompted message box what you want to grab from a trunk. You can use the words from the [DETAILS N.2] below* *TYPE-1* <br>
  NUMPAD 7 = Sir, may I see your ID, license, proof of insurance? *TYPE-2 because if it is a FEMALE, change Sir to Ma'am* <br>
- NUMPAD 8 = -pins- *auto send* -cuffs- *auto send* *TYPE-1*
- NUMPAD 9 = <callsign>, E.R. *you have to write where you are en route to then press enter yourself* *TYPE-1*
- NUMPAD / = <callsign>, E.R. C2 *you have to write where you are en route to then press enter yourself* *TYPE-1*
- NUMPAD * = <callsign>, E.R. C3 *you have to write where you are en route to then press enter yourself* *TYPE-1*
- NUMPAD - = <callsign>, 97 *you have to write what scene you are on and then press enter yourself* *TYPE-1*
- NUMPAD + = 10-71, *you have to write where the shots are fired and then press enter yourself* *TYPE-1*
- NUMPAD Page Up = 20 of shots? *TYPE-1*
- NUMPAD Page Down = /e *you have to write what you want only people in raido to see and then press enter yourself* *TYPE-1*
+ NUMPAD 8 = -pins- *auto send* -cuffs- *auto send* *TYPE-1* <br>
+ NUMPAD 9 = <callsign>, E.R. *you have to write where you are en route to then press enter yourself* *TYPE-1* <br>
+ NUMPAD / = <callsign>, E.R. C2 *you have to write where you are en route to then press enter yourself* *TYPE-1* <br>
+ NUMPAD * = <callsign>, E.R. C3 *you have to write where you are en route to then press enter yourself* *TYPE-1* <br>
+ NUMPAD - = <callsign>, 97 *you have to write what scene you are on and then press enter yourself* *TYPE-1* <br>
+ NUMPAD + = 10-71, *you have to write where the shots are fired and then press enter yourself* *TYPE-1* <br>
+ NUMPAD Page Up = 20 of shots? *TYPE-1* <br>
+ NUMPAD Page Down = /e *you have to write what you want only people in raido to see and then press enter yourself* *TYPE-1* <br> <br>
  
- Ctrl + J = <callsign>, PIT failed. *TYPE-1*
- Ctrl + K = <calsign, PIT successfull. *TYPE-1*
- Ctrl + L = LE *auto send* *cooldown 4.5 seconds* <callsign>, ATT *auto send*
+ Ctrl + J = <callsign>, PIT failed. *TYPE-1* <br>
+ Ctrl + K = <calsign, PIT successfull. *TYPE-1* <br>
+ Ctrl + L = LE *auto send* *cooldown 4.5 seconds* <callsign>, ATT *auto send* *TYPE-1* <br>
 </details>
 
 <details>
