@@ -16,7 +16,7 @@ You can use hotkeys to make your time shorter to type something. Very easy-to-us
 # Instructions:
 
 ## Instructions Number 1 (How to install the AutoHotKey):
-1. Open (this website)[https://www.autohotkey.com/] in your browser
+1. Open [this website](https://www.autohotkey.com/) in your browser
 2. Press green **Download** button
 3. Press green **Download Current Version** button
 4. Save the file on your computer
