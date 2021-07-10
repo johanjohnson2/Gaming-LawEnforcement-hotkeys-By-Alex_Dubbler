@@ -6,7 +6,7 @@ LISENCE - APACHE LISENCE 2.0 (http://www.apache.org/licenses/)- https://en.wikip
 CHECK LISENCE ABOVE (APACHE LISENCE 2.0) TO SEE WHAT YOU ARE ALLOWED AND WHAT YOU ARE NOT ALLOWED TO DO!
 
 # Virustotal
-The archive with the files was checked in virustotal.com (a website that lets you check for viruses). Virustotal results - **to be added soonly**
+The archive with the files was checked in virustotal.com (a website that lets you check for viruses). Virustotal results - https://www.virustotal.com/gui/file/ebd8f2263f7f118dbe5b3a0cc3f99a6e4585cafd168413c10a4be234202e57bd/detection
 
 # What is all this?
 
