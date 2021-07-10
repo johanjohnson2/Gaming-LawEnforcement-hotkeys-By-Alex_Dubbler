@@ -92,6 +92,7 @@ Done! Now you have a Hotkey app. You **must** launch the app as **Administrator*
 <br>
 
 **After usage, when you might want to disable those keybinds,** you can open System Tray, **Right Mouse Button Click** the **H letter with green background**, press Exit. <br> ![Steps Shown on picture](https://bit.ly/3qVGt60)
-<br>
-<br>
+   
+<br> <br>
+
 For troubleshooting and other issues/problems write me on Discord: Alex_Dubbler.#0001
