@@ -89,9 +89,9 @@ Done! Now you have a Hotkey app. You **must** launch the app as **Administrator*
   Flares = flares, FLARES, Flares <br>
 </details>
 
-
+<br>
 
 **After usage, when you might want to disable those keybinds,** you can open System Tray, **Right Mouse Button Click** the **H letter with green background**, press Exit. <br> ![Steps Shown on picture](https://bit.ly/3qVGt60)
-
-
+<br>
+<br>
 For troubleshooting and other issues/problems write me on Discord: Alex_Dubbler.#0001
