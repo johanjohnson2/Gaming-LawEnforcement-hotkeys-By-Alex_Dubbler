@@ -1,7 +1,7 @@
 ﻿; You can edit the variables below
-yourRank := "Captain"
-yourCallsign := "M1-777"
-yourName := "Edward"
+yourRank := "Sergeant"
+yourCallsign := "M1-94"
+yourName := "Johan"
 yourDepartmentName := "MCSO"
 
 
